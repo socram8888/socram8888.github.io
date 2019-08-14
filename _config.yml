@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: lorepirri/cayman-blog
+
+defaults:
+  - scope:
+        path: ""
+    values:
+        excerpt_separator: "<!--more-->"
