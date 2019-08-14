@@ -1,0 +1,28 @@
+---
+---
+
+@import "jekyll-theme-cayman-blog";
+
+.page-header {
+	display: flex;
+	flex-direction: column;
+
+	font-family: sans-serif;
+
+	background-image: url(/assets/bg/bg_hires.jpg);
+	background-size: cover;
+	background-position: 37% 59%;
+	background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 1920px) {
+	.page-header {
+		background-image: url(/assets/bg/bg_1920.jpg);
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.page-header {
+		background-image: url(/assets/bg/bg_1024.jpg);
+	}
+}
