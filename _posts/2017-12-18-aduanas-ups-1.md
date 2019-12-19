@@ -83,3 +83,5 @@ Cuando nos respondan, nos enviarán tres ficheros:
 Tiene un aspecto similar a esto:
 
 ![Factura](/assets/aduanasups/invoice.png)
+
+**[Ir al paso 2](2017-12-20-aduanas-ups-2.md)**

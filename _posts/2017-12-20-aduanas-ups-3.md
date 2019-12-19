@@ -68,3 +68,5 @@ Ahora, por último, **tenemos que enviar este documentos a [brokeragees@ups.com]
 ## Paso 8 - recibir el paquete
 
 Ya hemos terminado. Ya puedes relajarte y ponerte a otra cosa. En un par de días, lo tendrás en tu casa, y por 18€ menos de lo que te hubiera costado si UPS lo hubiera hecho por tí.
+
+**[Ir al paso 4 (FAQ)](2017-12-20-aduanas-ups-4.md)**

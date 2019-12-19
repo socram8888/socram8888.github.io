@@ -101,3 +101,5 @@ Aquí tenemos un dato muy, muy importante: el circuito. En mi caso, siempre ha s
 * Circuito verde: el paquete está libre de sospechas, en cuanto paguemos, saldrá de aduanas.
 * Circuito amarillo: el paquete será revisado a mano por un agente de aduanas, y luego será puesto en circuito verde, o en el peor de los casos, el rojo.
 * Circuito rojo: el paquete contiene algún tipo de producto ilegal, y no puede ser importado. Tendrás que ponerte en contacto con aduanas y hacer alegaciones.
+
+**[Ir al paso 3](2017-12-20-aduanas-ups-3.md)**
