@@ -87,4 +87,6 @@ En medio de la redacción del mismo, recibo un segundo email desde la dirección
 
 **¿A qué coño juega esta gente?**, ¿son incapaces de aclararse ellos mismos o qué?
 
+En el momento de redactar este post, el paquete sigue tras cinco horas en el estado de "Paquete disponible para su liberación", sin haber aparentemente leído ninguno de los mails en que les he enviado el levante.
+
 _Continuará..._
